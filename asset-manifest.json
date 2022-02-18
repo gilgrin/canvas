@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/canvas/static/css/main.31d6cfe0.css",
+    "main.js": "/canvas/static/js/main.62b8776f.js",
+    "index.html": "/canvas/index.html",
+    "main.62b8776f.js.map": "/canvas/static/js/main.62b8776f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.62b8776f.js"
+  ]
+}
